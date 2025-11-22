@@ -1,5 +1,6 @@
 PyQt6==6.6.0
 numpy
+llama-cpp-python
 sounddevice
 pyttsx3
 whisper             # optionnel mais pratique (openai/whisper). Remplace par faster-whisper si tu veux.
